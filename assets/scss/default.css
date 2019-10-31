@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap");
+/**
+ * Colors
+ */
+/**
+ * Navigation
+ */
+section#navigation {
+  background: #38362f;
+}
+section#navigation .col-md-3 {
+  transition: 0.5s ease;
+  padding: 10px;
+  cursor: pointer;
+}
+section#navigation .col-md-3:hover {
+  background: #ffcc00;
+}
+section#navigation .col-md-3:hover a {
+  color: #38362f;
+}
+section#navigation .col-md-3 a {
+  color: #ffcc00;
+  font-weight: 600;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=default.css.map */

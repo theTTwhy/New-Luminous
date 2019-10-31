@@ -1,0 +1,24 @@
+/**
+ * Navigation
+ */
+section#navigation{
+  background: $grey;
+  .col-md-3{
+    transition: 0.5s ease;
+    padding: 10px;
+    cursor: pointer;
+    &:hover{
+      background: $yellow;
+      a{
+        color: $grey;
+      }
+    }
+    a{
+      color: $yellow;
+      font-weight: 600;
+      font-family: $raleway;
+      font-size: 1.2rem;
+      text-decoration: none;
+    }
+  }
+}
