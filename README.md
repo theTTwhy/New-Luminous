@@ -1,2 +1,2 @@
 # New-Luminous
-New lumious website
+Website for https://www.new-luminous.nl/
